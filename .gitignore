@@ -1,0 +1,12 @@
+.venv
+.DS_Store
+__pycache__/
+.env
+uv.lock
+.python-version
+comp-90086-nutrition-5-k.zip
+comp-90086-nutrition-5-k
+*.pt
+figs
+results
+test_results
