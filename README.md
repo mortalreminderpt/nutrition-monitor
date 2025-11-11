@@ -1,6 +1,6 @@
 # Seeing Beyond the Plate: A Robust RGB‑Depth Model for Food Calorie Estimation
 
-<img src="https://raw.githubusercontent.com/mortalreminderpt/just-a-pic/refs/heads/main/1761108209967.jpg" alt="Nutrition5K Leaderboard (20 Oct 2025)" />
+<img src="https://raw.githubusercontent.com/mortalreminderpt/just-a-pic/refs/heads/main/1761108209967.jpg" alt="Nutrition5K Leaderboard (Private)" />
 
 ## 0. Introduction
 
